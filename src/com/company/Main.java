@@ -3,7 +3,7 @@ package com.company;
 import java.util.Scanner;
 
 public class Main {
-//dfgdff
+
     public static void main(String[] args) {
         // write your code here
         Scanner input = new Scanner(System.in);
